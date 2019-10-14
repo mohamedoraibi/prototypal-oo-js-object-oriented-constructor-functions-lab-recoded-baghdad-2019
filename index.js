@@ -16,9 +16,9 @@ class Driver{
 }
 
 class PickupLocation{
-  constructor(name,age,experience){
-    this.address=name
-    this.city=age
+  constructor(address,city){
+    this.address=address
+    this.city=city
     
   }
 }
