@@ -23,4 +23,3 @@ class PickupLocation{
   }
 }
 
-+ PickupLocation with `address` and `city` properties
