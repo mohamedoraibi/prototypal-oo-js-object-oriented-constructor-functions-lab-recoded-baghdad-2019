@@ -14,5 +14,13 @@ class Driver{
     this.experience=experience
   }
 }
-+ Driver with `name`, `age`, and `experience` properties
+
+class PickupLocation{
+  constructor(name,age,experience){
+    this.name=name
+    this.age=age
+    this.experience=experience
+  }
+}
+
 + PickupLocation with `address` and `city` properties
